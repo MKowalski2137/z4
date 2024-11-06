@@ -14,7 +14,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:background="#A52A2A"
-        android:text="Gra w kości. Autor: Dawid Bugajny"
+        android:text="gra w kości:Marcin Kowalski"
         android:textColor="@android:color/white"
         android:textSize="25dp"/>
 
